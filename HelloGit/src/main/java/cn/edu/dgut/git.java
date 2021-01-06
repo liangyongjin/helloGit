@@ -7,5 +7,6 @@ package cn.edu.dgut;
 public class git {
     public static void main(String[] args) {
         System.out.println("HELLO GIT!");
+        System.out.println("更新1:！");
     }
 }
